@@ -44,6 +44,31 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
+    },
+    {
+        username: "NBC News",
+        thumbnailUrl: 'https://pwiworks.org/wp-content/uploads/2014/05/NBC-News-Logo-600x600.jpg',
+        imageUrl: 'https://wvutoday.wvu.edu/files/d/d3d907d9-e97b-434e-a354-00c54962d30a/covidwebimage.jpg',
+        likes: 125,
+        timestamp: "April 11th 2020, 03:12:09 pm",
+        comments: [
+            {
+                username: "twitch",
+                text: "Just Want this to be over!"
+            },
+            {
+                username: "michaelmarzetta",
+                text: "I need to get back to work!"
+            },
+            {
+                username: "themexican_leprechaun",
+                text: "Give me more money"
+            },
+            {
+                username: "dennis_futbol",
+                text: "This is the government's fault"
+            }
+        ]
     }
 ];
 
