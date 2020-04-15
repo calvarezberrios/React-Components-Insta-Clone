@@ -1,7 +1,7 @@
 const dummyData = [
     {
         username: "philzcoffee",
-        thumbnailUrl: 'https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s150x150/67248626_346350186304601_6715901285419188224_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=knDeVfZyZmEAX_f8JX8&oh=c04ae5f2798f982b96e7cd7e141aeddd&oe=5E8242C8',
+        thumbnailUrl: 'https://www.diablomag.com/philz.png',
         imageUrl: 'https://images.unsplash.com/photo-1477763858572-cda7deaa9bc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1876&q=80',
         likes: 400,
         timestamp: "July 17th 2017, 12:42:40 pm",
@@ -42,6 +42,31 @@ const dummyData = [
             {
                 username: "dennis_futbol",
                 text: "It that injustice"
+            }
+        ]
+    },
+    {
+        username: "NBC News",
+        thumbnailUrl: 'https://pwiworks.org/wp-content/uploads/2014/05/NBC-News-Logo-600x600.jpg',
+        imageUrl: 'https://wvutoday.wvu.edu/files/d/d3d907d9-e97b-434e-a354-00c54962d30a/covidwebimage.jpg',
+        likes: 125,
+        timestamp: "April 11th 2020, 03:12:09 pm",
+        comments: [
+            {
+                username: "twitch",
+                text: "Just Want this to be over!"
+            },
+            {
+                username: "michaelmarzetta",
+                text: "I need to get back to work!"
+            },
+            {
+                username: "themexican_leprechaun",
+                text: "Give me more money"
+            },
+            {
+                username: "dennis_futbol",
+                text: "This is the government's fault"
             }
         ]
     }
